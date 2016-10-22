@@ -1,0 +1,21 @@
+p{
+    padding: 20px 10px;
+    background-color:teal;
+    color: blue;    
+}
+
+p:hover{
+    background-color:deepskyblue;
+}
+
+h2{
+    padding: 20px 10px;
+    background-color:teal;
+    color: white;
+}
+
+h3{
+    padding: 20px;
+    background-color:teal;
+    color: white;
+}
